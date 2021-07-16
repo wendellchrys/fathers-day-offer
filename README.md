@@ -1,5 +1,7 @@
 # Desafio 1 - Hiring Coders 2
 
+![Desafio 1 - Hiring Coders 2](https://i.ibb.co/NrdyB1R/landing-page.png)
+
 O desafio foi desenvolver uma landing page na mesma ideia da black friday, com criatividade livre, com objetivo de coletar o email e salvar no LocalStorage.
 
 English: The challenge was to develop a landing page in the same idea as black friday, with free creativity, in order to collect the email and save it to LocalStorage.
